@@ -1,0 +1,9 @@
+[submodule "Flexo"]
+	path = Flexo
+	url = https://github.com/joeywang4/Flexo
+[submodule "abc"]
+	path = abc
+	url = https://github.com/berkeley-abc/abc
+[submodule "benchmarks"]
+	path = benchmarking-circuits
+	url = https://github.com/lsils/benchmarks
