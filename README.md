@@ -108,7 +108,7 @@ For compiling the AES examples the `./flexo-compile.sh` script is not enough: fo
 
 # Paper
 
-G. Lusvardi, M. Andreolini, L. Ferretti, Y. Yarom, A. Chakraborty, _0xELF: Reverse Engineering Framework for Flexo-Generated Weird Machines_, to appear on RAID 2026.
+G. Lusvardi, M. Andreolini, L. Ferretti, Y. Yarom, A. Chakraborty, _0xELF: Reverse Engineering Framework for Flexo-Generated Weird Machines_, to appear in RAID 2026.
 
 # License information
 
